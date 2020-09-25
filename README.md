@@ -1,4 +1,4 @@
-<img align="right" src="https://www.adamholtzman.com/static/1-6c36844aa66ac2d58d0e15d5be383b04.jpg" alt="self portrait" width="428" height="550" />
+<img align="right" src="https://www.adamholtzman.com/static/1-21aceb9b6fb82ae7fdb98c6627f17806.jpg" alt="self portrait" width="428" height="550" />
 
 ## Hi, I am Adam
 
